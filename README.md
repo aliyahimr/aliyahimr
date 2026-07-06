@@ -44,16 +44,6 @@ Email: **aliyahnnf@gmail.com**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=aliyahimr&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyahimr&layout=compact&theme=tokyonight)
 
 ---
 
