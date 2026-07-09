@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nur Fara'Ain Aliyah</h1>
-<h3 align="center">Final Year Computer Science Student | AI & Web Developer</h3>
+<h1 align="center">Assalamualaikum and Hi, I'm Nur Fara'Ain Aliyah binti Imran</h1>
 
----
 
 ## 👩‍💻 About Me
 
