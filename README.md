@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 🎓 Final Year Computer Science Student at Universiti Teknologi MARA (UiTM)
-🤖 Interested in Artificial Intelligence, Natural Language Processing and Web Development.
+🤖 Interested in AI, NLP and Web Development.
 🚀 Currently developing **IntelliPoster Scientific Poster Generator (ISPG)**
 
 🌱 Currently learning
